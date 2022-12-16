@@ -1,3 +1,9 @@
 *.txt
 *.out
 *.json
+
+.vscode
+.plist
+
+
+*.dSYM
