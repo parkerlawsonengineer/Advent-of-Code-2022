@@ -1,4 +1,4 @@
-# Day 5 (part 1)
+# Day 5 (part 2)
 
 ## Compilation:
 
